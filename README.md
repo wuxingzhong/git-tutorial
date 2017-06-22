@@ -9,6 +9,7 @@
 - add feature 
 
 - fix-b
-
+- merge-test2
 - difftool
+- merge-test3 
 - feature-c 
