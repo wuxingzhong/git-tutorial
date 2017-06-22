@@ -14,4 +14,5 @@
 - merge-test2
 - difftool
 - merge-test3 
-- feature-c 
+- feature-c
+- merge user2 
